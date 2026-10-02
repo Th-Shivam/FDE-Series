@@ -1,0 +1,25 @@
+# Compiled Java output
+**/target/
+**/target
+*.class
+*.jar
+*.war
+*.ear
+
+# IDE and Editor files
+**/.idea/
+**/.vscode/
+*.iml
+
+# Node / JS dependencies
+**/node_modules/
+**/dist/
+**/build/
+
+# Environment and sensitive data
+**/.env
+**/.env.local
+
+# OS generated files
+.DS_Store
+Thumbs.db
